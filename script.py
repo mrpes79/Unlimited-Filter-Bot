@@ -2,8 +2,10 @@ class Script(object):
 
     START_MSG = """<b>Hy {},
 
-I'm an advanced filter bot with many capabilities!
-There is no practical limits for my filtering capacity :)
+HEY ഞാൻ ഒരു ഗ്രൂപ്പ് FILTER BOT ആണ് എന്നെ എന്റെ ഗ്രൂപ്പ് അല്ലാതെ 
+വേറെ ഒരു ഗ്രൂപ്പിലും ഉപയോഹിക്കാൻ പറ്റില്ല അതുകൊണ്ട് വേഗം സ്ഥാലം വീട്ടോ 
+!
+ :)
 
 See <i>/help</i> for commands and more details.</b>
 """
